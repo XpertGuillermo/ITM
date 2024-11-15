@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiFestivos.Dominio", "apiFestivos.Dominio\apiFestivos.Dominio.csproj", "{AFB147DE-4548-4695-BEC0-E136530BB71C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiFestivos.Core", "apiFestivos.Core\apiFestivos.Core.csproj", "{46BF3675-FDAA-47C2-BF41-99401CB786E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiFestivos.Infraestructura.Repositorio", "apiFestivos.Infraestructura.Repositorio\apiFestivos.Infraestructura.Repositorio.csproj", "{93DDC1EC-DA7A-4DCD-B9C1-7F6FCBC2C8E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiFestivos.Aplicacion", "apiFestivos.Aplicacion\apiFestivos.Aplicacion.csproj", "{CA5D9432-3024-4B6C-AEBC-127F3425C28B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiFestivos.Presentacion", "apiFestivos.Presentacion\apiFestivos.Presentacion.csproj", "{5099B615-4372-4B2F-9603-989D5DDCD249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiFestivo.test", "apiFestivo.test\apiFestivo.test.csproj", "{B9903038-9DDD-4CFB-BD1F-304489B825E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB147DE-4548-4695-BEC0-E136530BB71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB147DE-4548-4695-BEC0-E136530BB71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB147DE-4548-4695-BEC0-E136530BB71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB147DE-4548-4695-BEC0-E136530BB71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46BF3675-FDAA-47C2-BF41-99401CB786E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BF3675-FDAA-47C2-BF41-99401CB786E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BF3675-FDAA-47C2-BF41-99401CB786E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BF3675-FDAA-47C2-BF41-99401CB786E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DDC1EC-DA7A-4DCD-B9C1-7F6FCBC2C8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DDC1EC-DA7A-4DCD-B9C1-7F6FCBC2C8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DDC1EC-DA7A-4DCD-B9C1-7F6FCBC2C8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DDC1EC-DA7A-4DCD-B9C1-7F6FCBC2C8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5D9432-3024-4B6C-AEBC-127F3425C28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5D9432-3024-4B6C-AEBC-127F3425C28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5D9432-3024-4B6C-AEBC-127F3425C28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5D9432-3024-4B6C-AEBC-127F3425C28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5099B615-4372-4B2F-9603-989D5DDCD249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5099B615-4372-4B2F-9603-989D5DDCD249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5099B615-4372-4B2F-9603-989D5DDCD249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5099B615-4372-4B2F-9603-989D5DDCD249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9903038-9DDD-4CFB-BD1F-304489B825E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9903038-9DDD-4CFB-BD1F-304489B825E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9903038-9DDD-4CFB-BD1F-304489B825E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9903038-9DDD-4CFB-BD1F-304489B825E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99E3F7B-C24E-41DD-A680-16E0E980DA55}
+	EndGlobalSection
+EndGlobal

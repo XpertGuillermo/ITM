@@ -1,0 +1,6 @@
+@apiFestivos.Presentacion_HostAddress = http://localhost:5289
+
+GET {{apiFestivos.Presentacion_HostAddress}}/
+Accept: application/json
+
+###
